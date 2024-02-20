@@ -1,7 +1,6 @@
 import numpy as np
 import math
 
-
 def test_matrix(target_A, target_b):
 
     successful_cases = 0
