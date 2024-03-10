@@ -23,8 +23,8 @@ Learning Objectives
 -Determine the singularity of 2x2 and 3x3 system of equations by calculating the determinant
 
 
-Week 2: Solving systems of linear equations
+# Week 2: Solving systems of linear equations
 
-Week 3: Vectors and Linear transformations
+# Week 3: Vectors and Linear transformations
 
-Week 4: Determinants and Eigenvectors
+# Week 4: Determinants and Eigenvectors
